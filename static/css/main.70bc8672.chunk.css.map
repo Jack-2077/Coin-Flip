@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/ShowCoin.css","webpack://src/Coin.css"],"names":[],"mappings":"AAAA,UACI,WAAY,CACZ,YACJ,CCHA,MACI,iBACJ","file":"main.70bc8672.chunk.css","sourcesContent":[".Coin img{\r\n    width: 200px;\r\n    height: 200px;\r\n}",".Coin{\r\n    text-align: center;\r\n}"]}

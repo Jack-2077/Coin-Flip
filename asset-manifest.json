@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Coin-Flip/static/css/main.70bc8672.chunk.css",
+    "main.js": "/Coin-Flip/static/js/main.00c3cef5.chunk.js",
+    "main.js.map": "/Coin-Flip/static/js/main.00c3cef5.chunk.js.map",
+    "runtime-main.js": "/Coin-Flip/static/js/runtime-main.8efcf501.js",
+    "runtime-main.js.map": "/Coin-Flip/static/js/runtime-main.8efcf501.js.map",
+    "static/js/2.206fd4cd.chunk.js": "/Coin-Flip/static/js/2.206fd4cd.chunk.js",
+    "static/js/2.206fd4cd.chunk.js.map": "/Coin-Flip/static/js/2.206fd4cd.chunk.js.map",
+    "index.html": "/Coin-Flip/index.html",
+    "static/css/main.70bc8672.chunk.css.map": "/Coin-Flip/static/css/main.70bc8672.chunk.css.map",
+    "static/js/2.206fd4cd.chunk.js.LICENSE.txt": "/Coin-Flip/static/js/2.206fd4cd.chunk.js.LICENSE.txt",
+    "static/media/heads.b9dac1a2.png": "/Coin-Flip/static/media/heads.b9dac1a2.png",
+    "static/media/tails.c48dbcdf.png": "/Coin-Flip/static/media/tails.c48dbcdf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8efcf501.js",
+    "static/js/2.206fd4cd.chunk.js",
+    "static/css/main.70bc8672.chunk.css",
+    "static/js/main.00c3cef5.chunk.js"
+  ]
+}
