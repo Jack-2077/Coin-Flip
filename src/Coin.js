@@ -1,11 +1,15 @@
 import React, { Component } from 'react'
 import {choice} from './helpers'
+import ShowCoin from './ShowCoin'
+import HEADS from "../src/heads.png";
+import TAILS from "../src/tails.png";
+import './Coin.css'
 
 class Coin extends Component{
     static defaultProps = {
         coins: [
-            { side: "heads", url: "https://tinyurl.com/react-coin-heads-jpg" },
-            { side: "tails", url:"https://tinyurl.com/react-coin-tails-jpg"}
+            { side: "heads", url: HEADS },
+            { side: "tails", url: TAILS}
         ]
     }
     constructor(props)
@@ -41,6 +45,7 @@ class Coin extends Component{
         return (
             <div className="Coin">
                 <h2>Let's flip a coin!</h2>
+                {this.state.currCoin && <ShowCoin info={this.state.currCoin} />}
                 <button onClick={this.handleClick}>FLIP MEEEEE</button>
             <p>Out of {this.state.total} flips, there have been {this.state.nheads} heads and {this.state.ntails} tails</p>
             </div>
