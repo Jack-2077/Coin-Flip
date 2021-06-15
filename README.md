@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+You can see the app [here](https://jack-2077.github.io/Coin-Flip/)
 
 ## Available Scripts
 
